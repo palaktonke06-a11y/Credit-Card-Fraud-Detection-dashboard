@@ -35,4 +35,4 @@ The dashboard enables quick identification of suspicious transaction patterns, i
 📷 Dashboard Screenshot
 
 "Credit Card Fraud Detection Dashboard"
-<img src="Screenshots 2026-06-14 125931.png" width="100%">
+<img src="Screenshot 2026-06-14 125931.png" width="100%">
