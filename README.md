@@ -1,38 +1,155 @@
-📊 Project Name: Credit Card Fraud Detection Dashboard
+# 💳 Credit Card Fraud Detection Dashboard
 
-📝 Project Overview
-This project is an interactive Credit Card Fraud Detection Dashboard developed in Power BI to analyze fraudulent and legitimate credit card transactions. The dashboard helps identify fraud patterns, monitor transaction behavior, and provide insights that support risk management and fraud prevention.
+---
 
-🚀 Key Features & Insights
-- Tracked Total Transactions, Fraud Transactions, Transaction Amount, and Time using KPI Cards.
-- Compared fraudulent and non-fraudulent transactions using a Donut Chart.
-- Analyzed transaction amounts across different classes through Bar Charts.
-- Evaluated key transaction variables (V1 & V2) using a Funnel Chart.
-- Monitored fraud occurrences over time using Trend Analysis Charts.
-- Identified transaction patterns and anomalies to support fraud detection.
+## 📝 Project Overview
 
-📊 Dashboard Visualizations
+The Credit Card Fraud Detection Dashboard was developed to analyze credit card transaction data and identify fraudulent activities through interactive visualizations and data-driven insights. The dashboard enables organizations to monitor transaction behavior, detect suspicious patterns, and support fraud prevention strategies.
 
-Main Fraud Analysis Dashboard
+By transforming raw transaction records into meaningful analytics, this solution helps financial institutions improve fraud monitoring, reduce financial risks, and enhance decision-making through real-time performance indicators and trend analysis.
 
-- KPI Cards: Total Transactions, Fraud Transactions, Total Amount, Transaction Time
-- Donut Chart: Distribution of Fraud vs Non-Fraud Transactions
-- Funnel Chart: Comparison of V1 and V2 transaction variables
-- Bar Chart: Transaction Amount by Class
-- Line Chart: Fraud Transaction Trends
-- Waterfall Chart: Transaction and V1 analysis by Time and Class
+---
 
-🛠️ Tech Stack Used
+## 🚀 Key Features & Insights
+
+### 🚨 Fraud Monitoring & Detection
+- Track fraudulent and legitimate transactions.
+- Monitor fraud occurrence patterns.
+- Identify suspicious transaction activities.
+
+### 💰 Transaction Analysis
+- Analyze total transaction amounts.
+- Compare fraud and non-fraud transaction values.
+- Evaluate transaction behavior across different classes.
+
+### 📈 Trend & Pattern Analysis
+- Monitor fraud trends over time.
+- Identify anomalies in transaction activity.
+- Analyze historical fraud patterns.
+
+### 🔍 Variable Performance Analysis
+- Evaluate important transaction variables.
+- Compare feature distributions between fraud and non-fraud transactions.
+- Support anomaly detection and risk assessment.
+
+---
+
+# 📊 Main Fraud Analysis Dashboard
+
+### Visuals Included
+
+#### 🔹 KPI Cards
+Displays key fraud monitoring metrics:
+- Total Transactions
+- Fraud Transactions
+- Total Transaction Amount
+- Transaction Time
+
+#### 🔹 Fraud vs Non-Fraud Distribution
+Donut chart showing:
+- Fraudulent Transactions
+- Legitimate Transactions
+- Fraud percentage breakdown
+
+#### 🔹 Transaction Variable Analysis
+Funnel chart comparing:
+- V1 Transaction Variable
+- V2 Transaction Variable
+- Key feature performance metrics
+
+#### 🔹 Transaction Amount by Class
+Bar chart displaying:
+- Transaction values by class
+- Fraud vs non-fraud comparisons
+- Financial impact analysis
+
+#### 🔹 Fraud Trend Analysis
+Line chart visualizing:
+- Fraud occurrence over time
+- Transaction behavior trends
+- Pattern identification
+
+#### 🔹 Transaction Waterfall Analysis
+Waterfall chart analyzing:
+- Transaction changes by class
+- V1 contribution by time
+- Transaction flow analysis
+
+### 📷 Dashboard Screenshot
+
+![Credit Card Fraud Dashboard](Screenshot%202026-06-14%20125931.png)
+
+---
+
+## 🛠️ Tech Stack
+
 - Power BI Desktop
 - Power Query
-- DAX Measures
+- DAX (Data Analysis Expressions)
 - Credit Card Transaction Dataset
+- Data Modeling & Relationships
 
-🎯 Business Impact
+### Key DAX Metrics
 
-The dashboard enables quick identification of suspicious transaction patterns, improves fraud monitoring, and supports data-driven decision-making for reducing financial risks.
+- Total Transactions
+- Fraud Transaction Count
+- Total Transaction Amount
+- Fraud Percentage
+- Transaction Time Analysis
+- Class Distribution Metrics
+- Risk Monitoring Indicators
 
-📷 Dashboard Screenshot
+---
 
-"Credit Card Fraud Detection Dashboard"
-<img src="Screenshot 2026-06-14 125931.png" width="100%">
+## 📂 Dataset
+
+The dataset contains credit card transaction records including:
+
+- Transaction Time
+- Transaction Amount
+- Transaction Class
+- Fraud Labels
+- Transaction Variables (V1–V28)
+- Financial Activity Records
+
+---
+
+## 📈 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- Fraud Analytics
+- Risk Analysis
+- Financial Data Analysis
+- KPI Development
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+
+---
+
+## 🎯 Business Value
+
+✅ Monitor fraudulent transaction activities
+
+✅ Identify suspicious transaction patterns
+
+✅ Analyze fraud trends and anomalies
+
+✅ Support fraud prevention strategies
+
+✅ Improve financial risk management
+
+✅ Enable data-driven fraud investigation
+
+---
+
+## 🔗 Project Link
+
+### GitHub Repository
+
+👉 https://github.com/palaktonke06-a11y/Credit-Card-Fraud-Detection-dashboard
+
+---
+
+⭐ If you found this project useful, don't forget to star the repository.
